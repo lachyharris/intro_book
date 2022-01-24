@@ -1,0 +1,1 @@
+# The method being called needs two arguments/inputs (example being if its a mulitplication requiring two values, only one was given).
