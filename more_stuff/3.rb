@@ -1,0 +1,1 @@
+# Exception handling is a way of preventing any dangerous actions to destory the process of your code, by having rescue operaitons.
